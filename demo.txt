@@ -1,1 +1,1 @@
-This is the demo file to understand git
+this is a demo file.
