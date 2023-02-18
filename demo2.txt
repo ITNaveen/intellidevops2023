@@ -1,1 +1,1 @@
-second file :
+This is to understand Tag in Git.
